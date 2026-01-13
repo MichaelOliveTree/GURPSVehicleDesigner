@@ -1,3 +1,12 @@
+NOTE: Below is the original readme.txt.  It references v2.0, but the only versions ever released were the 1.x branches.  
+
+This software is copyright 1999-2026 Michael Preston Joseph.  The code (which is very very badly written because it was my first ever real attempt at writing an application that others would find useful) is currently broken as I was in the midst of a revision that I never finished and I lost the src to the last publicly released version.  
+
+It requires Visual Basic 6.0 to compile, but it should be easy to port the whole thing to C# or VB.NET.
+–--------------
+
+
+
 REAME.TXT for GURPS (R) Vehicle Designer v2.0
 Copyright (C) 1999-2004 Mako Software. 
 All rights reserved.
@@ -113,5 +122,6 @@ Incorporated.  This program includes copyright material from
 the GURPS game which is used by permission of Steve Jackson 
 Games Incorporated.  All rights reserved by Steve Jackson Games 
 Incorporated.
+
 
 
