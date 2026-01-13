@@ -1,8 +1,8 @@
 REAME.TXT for GURPS (R) Vehicle Designer v2.0
-Copyright (C) 1999-2004 Mako Software. 
+Copyright (C) 1999-2004 Michael Preston Joseph.
 All rights reserved.
 
-January 30, 2004
+January 12, 2026
 
 
 -----------------------------------------------------------
@@ -113,5 +113,6 @@ Incorporated.  This program includes copyright material from
 the GURPS game which is used by permission of Steve Jackson 
 Games Incorporated.  All rights reserved by Steve Jackson Games 
 Incorporated.
+
 
 
