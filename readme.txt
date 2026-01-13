@@ -5,7 +5,7 @@ This software is copyright 1999-2026 Michael Preston Joseph.  The code (which is
 It requires Visual Basic 6.0 to compile, but it should be easy to port the whole thing to C# or VB.NET.
 –--------------
 
-<img src="/screenshots/readme.png" alt="Alt text for the screenshot" width="400px">
+<img src="shot3.jpg" alt="Alt text for the screenshot" width="400px">
 
 
 REAME.TXT for GURPS (R) Vehicle Designer v2.0
@@ -123,6 +123,7 @@ Incorporated.  This program includes copyright material from
 the GURPS game which is used by permission of Steve Jackson 
 Games Incorporated.  All rights reserved by Steve Jackson Games 
 Incorporated.
+
 
 
 
